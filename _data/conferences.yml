@@ -8,7 +8,7 @@
   timezone: UTC-12
   date: February 2-9, 2021
   place: Vancouver, Canada
-  sub: ML
+  sub: ML,TEST
   note: '<b>NOTE</b>: Mandatory abstract deadline on September 01, 2020'
 
 - title: AAMAS
@@ -21,7 +21,9 @@
   timezone: UTC-12
   date: May 3-7, 2021
   place: London, UK
-  sub: ML
+  sub:
+    - ML
+    - TEST
   note: '<b>NOTE</b>: Mandatory abstract deadline on Oct 02, 2020. More info <a href=''https://aamas2021.soton.ac.uk/calls/papers/''>here</a>.'
 
 - title: ACCV
