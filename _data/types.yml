@@ -1,6 +1,4 @@
 ---
-- name: Test Tier
-  sub: TEST
 - name: Machine Learning
   sub: ML
 - name: Computer Vision
