@@ -109,13 +109,13 @@
 
 - title: ICIP
   hindex: 52
-  year: 2020
+  year: 2021
   id: icip2021
-  link: https://2020.ieeeicip.org/
-  deadline: '2020-01-31 23:59:00'
+  link: https://2021.ieeeicip.org/
+  deadline: '2020-01-13 23:59:00'
   timezone: AOE
-  date: October 25-28, 2021
-  place: Abu Dhabi, United Arab Emirates
+  date: September 19-22, 2021
+  place: Anchorage, USA
   sub: CV
 
 - title: ICLR
