@@ -181,11 +181,11 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 12, 2021. More info <a href=''https://ijcai-21.org/cfp/''>here</a>.'
 
 - title: IJCNN
-  hindex: 36
+  hindex: 46
   year: 2021
   id: ijcnn21
   link: https://www.ijcnn.org/
-  deadline: '2021-01-30 23:59:59'
+  deadline: '2021-01-15 23:59:59'
   timezone: UTC-12
   date: July 18-22, 2021
   place: Shenzhen, China
