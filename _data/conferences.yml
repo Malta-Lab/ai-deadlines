@@ -147,8 +147,8 @@
 
 - title: ICMR
   hindex: 33
-  year: 2020
-  id: icmr20
+  year: 2021
+  id: icmr21
   link: http://icmr2020.org/
   deadline: '2020-01-11 23:59:59'
   timezone: Europe/London
@@ -168,17 +168,17 @@
   sub: ML
 
 - title: IJCAI-PRICAI
-  hindex: 67
-  year: 2020
-  id: ijcai-pricai20
-  link: https://www.ijcai20.org/
-  deadline: '2020-01-21 23:59:59'
-  abstract_deadline: '2020-01-15 23:59:59'
+  hindex: 95
+  year: 2021
+  id: ijcai-pricai21
+  link: https://ijcai-21.org/
+  deadline: '2021-01-18 23:59:59'
+  abstract_deadline: '2021-01-12 23:59:59'
   timezone: UTC-12
-  date: July 11-17, 2020
-  place: Yokohama, Japan
+  date: August 21-26, 2021
+  place: Montreal, Canada
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 15, 2020. More info <a href=''https://www.ijcai19.org/''>here</a>.'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 12, 2021. More info <a href=''https://ijcai-21.org/cfp/''>here</a>.'
 
 - title: IJCNN
   hindex: 36
