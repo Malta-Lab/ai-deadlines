@@ -112,7 +112,7 @@
   year: 2021
   id: icip2021
   link: https://2021.ieeeicip.org/
-  deadline: '2020-01-13 23:59:00'
+  deadline: '2021-01-13 23:59:00'
   timezone: AOE
   date: September 19-22, 2021
   place: Anchorage, USA
@@ -133,17 +133,17 @@
     <a href=''https://iclr.cc/Conferences/2021/CallForPapers''>here</a>.'
 
 - title: ICML
-  hindex: 135
-  year: 2020
-  id: icml20
-  link: https://icml.cc/Conferences/2020
-  deadline: '2020-02-06 23:59:00'
-  abstract_deadline: '2020-01-30 23:59:00'
+  hindex: 171
+  year: 2021
+  id: icml21
+  link: https://icml.cc/Conferences/2021
+  deadline: '2021-02-04 23:59:00'
+  abstract_deadline: '2021-01-28 23:59:00'
   timezone: UTC-12
-  date: July 12-18, 2020
-  place: Online
+  date: July 18-24, 2021
+  place: Vienna, Austria
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 30, 2020. More info <a href=''https://icml.cc/Conferences/2020/CallForPapers''>here</a>.'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 28, 2021. More info <a href=''https://icml.cc/Conferences/2021/CallForPapers''>here</a>.'
 
 - title: ICMR
   hindex: 33
@@ -192,14 +192,14 @@
   sub: ML
 
 - title: KDD
-  hindex: 30
-  year: 2020
-  id: kdd20
-  link: https://www.kdd.org/kdd2020/
-  deadline: '2020-02-13 23:59:59'
+  hindex: 90
+  year: 2021
+  id: kdd21
+  link: https://www.kdd.org/kdd2021/
+  deadline: '2021-02-08 23:59:59'
   timezone: UTC-11
-  date: August 22-27, 2020
-  place: San Diego, California, USA
+  date: August 14-18, 2021
+  place: Singapore
   sub: ML
 
 - title: NeurIPS
