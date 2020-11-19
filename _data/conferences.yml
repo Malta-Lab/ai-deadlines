@@ -34,20 +34,21 @@
   date: November 30 - December 4, 2020
   place: Online
   sub: CV
+  note: '<b>NOTE</b>: Biennial conference.'
 
 - title: ACMMM
   hindex: 58
-  year: 2020
-  id: acmmm2020
-  link: https://2020.acmmm.org/
-  deadline: '2020-05-24 23:59:00'
-  abstract_deadline: '2020-05-17 23:59:59'
+  year: 2021
+  id: acmmm2021
+  link: https://2021.acmmm.org/
+  deadline: '2021-04-03 23:59:00'
+  abstract_deadline: '2021-03-27 23:59:59'
   timezone: AOE
-  date: October 12-16, 2020
-  place: Seattle, Washington, USA
+  date: October 20-24, 2021
+  place: Chengdu, China
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on May 17, 2020.
-    More info <a href=''https://2020.acmmm.org/call-for-paper.html''>here</a>'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on March 27, 2021.
+    More info <a href=''https://2021.acmmm.org/important-dates.html''>here</a>'
 
 - title: AISTATS
   hindex: 52
@@ -166,6 +167,7 @@
   date: January 10-15, 2021
   place: Milan, Italy
   sub: ML
+  note: '<b>NOTE</b>: Biennial conference.'
 
 - title: IJCAI-PRICAI
   hindex: 95
