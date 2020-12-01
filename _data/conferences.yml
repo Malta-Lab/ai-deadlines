@@ -149,14 +149,14 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 28, 2021. More info <a href=''https://icml.cc/Conferences/2021/CallForPapers''>here</a>.'
 
 - title: ICMR
-  hindex: 33
+  hindex: 30
   year: 2021
   id: icmr21
-  link: http://icmr2020.org/
-  deadline: '2020-01-11 23:59:59'
-  timezone: Europe/London
-  date: June 8-11, 2020
-  place: Dublin, Ireland
+  link: http://icmr2021.org/
+  deadline: '2021-02-21 23:59:59'
+  timezone: UTC-12
+  date: July 12-15, 2021
+  place: Taipei, Taiwan
   sub: CV
 
 - title: ICPR
